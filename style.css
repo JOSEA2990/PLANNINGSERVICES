@@ -115,7 +115,15 @@ header p {
 
     .nav-links li a {
     font-size: 0.75rem;
-}
+    }
+
+    header h1 {
+    font-size: 0rem;
+    }
+
+    .header-content {
+    padding: 40px 0 30px 0;
+    }
 }
 
 /* Cuadros de contenido */
